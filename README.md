@@ -8,7 +8,7 @@
 
 Linguagens de Programação - EfolioB - Sistema Bancario
   
-Sistema de gestão bancária, para uso interno dos gestores de conta. Utilizamos linguagem Prolog no back-end pois consideramos que a mesma é mais veloz no processamento de informação, e o front-end do sistema foi criado em modo consola feito em Java, nesta versão utilizamos mais o Prolog para decisões.
+Sistema de gestão bancária, para uso interno dos gestores de conta. Utilizamos linguagem Prolog no back-end pois consideramos que a mesma é mais veloz no processamento de informação, e o front-end do sistema foi criado em modo consola feito em Java, nesta versão utilizamos mais o Prolog para decisões, criamos os predicados no ficheiro banco.pl
 </p>
 
 📌 Programa sobre # Sistema Bancario
