@@ -11,3 +11,10 @@
 ** Description : Sistema Bancario em Prolog e Java 
 ** ===========================================================================
 */
+
+public class Main {
+    public static void main(String[] args) {
+        SistemaBancario sistemaBancario = new SistemaBancario();
+        sistemaBancario.exibirMenu();
+    }
+}
