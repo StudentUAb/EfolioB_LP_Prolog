@@ -1,0 +1,51 @@
+Para executar os arquivos Cliente.java, Main.java, SistemaBancario.java e banco.pl usando o Visual Studio Code e o terminal no Mac e Windows, siga os passos abaixo:
+
+Pré-requisitos:
+
+1. Instale o JDK (Java Development Kit): https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
+2. Instale o Visual Studio Code: https://code.visualstudio.com/
+3. Instale a extensão "Java Extension Pack" no Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+4. Instale o SWI-Prolog: https://www.swi-prolog.org/Download.html
+5. Instale a biblioteca JPL (Java-Prolog Interface) e configure o projeto: https://jpl7.org/
+
+Executando no Visual Studio Code:
+
+1. Abra o Visual Studio Code.
+2. Vá até "File" > "Open Folder" e selecione a pasta do projeto.
+3. Abra o arquivo Main.java no Visual Studio Code.
+4. Clique no botão "Run" (ícone de play) na parte superior direita da janela do editor 
+ou pressione F5 para executar o arquivo Main.java. no mac ^F5 para executar without debugging(recomendado)
+
+Executando no Terminal (Mac):
+
+1. Abra o Terminal.
+2. Navegue até a pasta do projeto usando o comando cd:
+ 
+ cd /caminho/para/a/pasta/do/projeto
+
+3. Compile os arquivos Java:
+
+javac -cp /caminho/para/jpl.jar Cliente.java Main.java SistemaBancario.java
+
+4. Execute o arquivo Main:
+
+java -cp .:/caminho/para/jpl.jar Main
+
+
+Executando no Terminal (Windows):
+
+1. Abra o Prompt de Comando (CMD).
+2. Navegue até a pasta do projeto usando o comando cd:
+
+cd \caminho\para\a\pasta\do\projeto
+
+3. Compile os arquivos Java:
+
+javac -cp "C:\caminho\para\jpl.jar" Cliente.java Main.java SistemaBancario.java
+
+4. Execute o arquivo Main:
+
+java -cp ".;C:\caminho\para\jpl.jar" Main
+
+Lembre-se de substituir /caminho/para/jpl.jar e C:\caminho\para\jpl.jar
+pelo caminho real onde o arquivo jpl.jar está localizado no seu sistema.
