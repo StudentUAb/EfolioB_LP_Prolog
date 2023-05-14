@@ -44,8 +44,8 @@ The project was done with Java and Prolog.
 🔧 Tecnologias utilizadas:
 ------------------
 
-- Java
 - Prolog
+- Java
 - VisualStudioCode
 
 💬 Fale comigo
