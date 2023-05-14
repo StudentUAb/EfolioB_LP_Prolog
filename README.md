@@ -4,7 +4,7 @@
 
 
 <p align="center">
-# EfolioB criado em Java e Prolog
+# EfolioB criado em Prolog e Java
 
 Linguagens de Programação - EfolioB - Sistema Bancario
   
@@ -12,7 +12,7 @@ Sistema de gestão bancária, para uso interno dos gestores de conta. Utilizamos
 </p>
 
 📌 Programa sobre # Sistema Bancario
-Linguagens de Programação Java e Prolog - EfolioB - Sistema Bancario
+Linguagens de Programação Prolog e Java - EfolioB - Sistema Bancario
 ------------------
 <img width="400" src="tela.png" alt="page-home">
 ## Para fazer a interligação entre Prolog e Java no macOS e Win, você pode usar a biblioteca JPL (Java Prolog Interface). Siga as etapas abaixo para configurar a interligação no seu ambiente:
@@ -32,10 +32,10 @@ Linguagens de Programação Java e Prolog - EfolioB - Sistema Bancario
 
 No Visual Studio Code no MacOS compilamos sem debug com ^F5 (recomendado)
 
-O projeto foi feito em Java e Prolog.
+O projeto foi feito em Prolog e Java.
 
 
-The project was done with Java and Prolog.
+The project was done with Prolog e Java.
 
 
 <img width="400" src="print.png" alt="page-home">
